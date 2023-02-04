@@ -1,3 +1,4 @@
+dev
 feature
 branch manage
 create new branch dev
