@@ -1,4 +1,4 @@
-dev
+dev test
 feature
 branch manage
 create new branch dev
